@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["srockstyle"]
   spec.email         = ["kobayashi_shohei@srockstyle.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = "Edit PSD File"
+  spec.description   = "Edit PSD File"
   spec.homepage      = "https://github.com/srockstyle/imageliner"
   spec.license       = "MIT"
 
